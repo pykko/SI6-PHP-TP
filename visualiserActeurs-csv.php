@@ -13,11 +13,12 @@
 		
 			$acteurs = array( 
 			
-				"Ruffalo:mark:usa" ,
-				"Hathaway:anne:USa" , 
-				"Robbins:tim:USA" ,
+				"Ceyda:Torun:TuRqUie" ,
+				"paolo:sorrentino:italie" ,
+				"Giuseppe:Tornatore:italie" ,
+				"Numan:Acar:turquie" ,
 				"cotillard:MARION:france"
-			
+
 			) ;
 		
 		?>

@@ -13,27 +13,30 @@
 		
 			$noms = array( 
 			
-				"Ruffalo" ,
-				"Hathaway" , 
-				"Robbins" ,
+				"Torun" ,
+				"sorrentino" ,
+				"Tornatore" , 
+				"Acar" ,
 				"cotillard"
 			
 			) ;
 			
 			$prenoms = array(
 			
-				"mark" ,
-				"anne" ,
-				"tim" ,
+				"Ceyda" ,
+				"paolo" ,
+				"Giuseppe" ,
+				"Numan" ,
 				"MARION"
 				
 			) ;
 			
 			$pays = array(
 			
-				"usa" ,
-				"USa" ,
-				"USA" ,
+				"turquie" ,
+				"italie" ,
+				"italie" ,
+				"turquie" ,
 				"france"
 			
 			) ;
